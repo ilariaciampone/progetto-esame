@@ -61,7 +61,7 @@ L'ultima analisi tenta di capire quale tipologia di opera è più presente a Bol
 l'analisi dimosra che il genere più presente è quello dell'arte religiosa, mentre c'è un pareggio sugli artisti, ovvero: Guido Reni, Ludovico e Annibale Carracci.
 
 ## Dataset e Strumenti 
-* Fonte Dati: : Dataset VAPOD (Formato CSV) disponibile al link: https://raw.githubusercontent.com/dhdmch/2025-2026/refs/heads/main/data/vapod/data.csv
+* Fonte Dati: Dataset VAPOD (Formato CSV) disponibile al link: https://raw.githubusercontent.com/dhdmch/2025-2026/refs/heads/main/data/vapod/data.csv
 * Strumenti: Phyton (Pandas, numpy, matplotlib.pyplot e seaborn)
 
 ## Responsabile
