@@ -65,7 +65,7 @@ l'analisi dimosra che il genere più presente è quello dell'arte religiosa, men
 * Strumenti: Phyton (Pandas, numpy, matplotlib.pyplot e seaborn)
 
 ## Responsabile
-Ilaria Ciampone 
+Ilaria Ciampone (ORCID: 0009-0003-1510-4080)
 
 ## Licenza
 I dati sono rilasciati sotto licenza CC0 1.0 Universal
